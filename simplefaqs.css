@@ -1,0 +1,3 @@
+.simplefaq-item { margin-bottom: 10px; }
+.simplefaq-item .question { text-decoration: none; border-bottom: 1px dotted; cursor:pointer}
+.simplefaq-item .answer { display: none; }
